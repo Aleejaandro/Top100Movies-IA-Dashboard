@@ -1,0 +1,100 @@
+title,Sentimiento Reseña 1,Sentimiento Reseña 2,Sentimiento Reseña 3,Media de Sentimiento
+The Shawshank Redemption,1.0,0.91,0.17,0.69
+The Godfather,0.53,0.43,0.15,0.37
+The Dark Knight,0.83,0.32,0.17,0.44
+The Godfather Part II,0.48,0.2,0.2,0.29
+12 Angry Men,0.64,0.4,0.01,0.35
+Schindler's List,0.19,0.16,0.05,0.13
+The Lord of the Rings: The Return of the King,0.26,0.07,0.04,0.12
+Pulp Fiction,0.22,0.11,0.0,0.11
+The Lord of the Rings: The Fellowship of the Ring,0.17,0.13,0.08,0.13
+"The Good, the Bad and the Ugly",0.23,0.22,0.05,0.17
+Forrest Gump,1.0,1.0,0.22,0.74
+Fight Club,0.65,0.15,-0.01,0.26
+The Lord of the Rings: The Two Towers,0.2,0.15,0.14,0.16
+Inception,0.29,0.24,0.2,0.24
+Star Wars: Episode V - The Empire Strikes Back,0.16,0.14,-0.02,0.09
+The Matrix,0.42,0.25,0.2,0.29
+Goodfellas,0.16,0.09,0.0,0.08
+Spider-Man: Across the Spider-Verse,0.23,0.13,0.1,0.15
+Interstellar,0.16,0.15,0.11,0.14
+One Flew Over the Cuckoo's Nest,0.11,0.11,0.07,0.1
+Se7en,0.57,0.11,0.02,0.23
+It's a Wonderful Life,0.29,0.28,0.22,0.26
+Seven Samurai,0.6,0.39,0.1,0.36
+The Silence of the Lambs,0.29,0.25,0.17,0.24
+Saving Private Ryan,0.23,0.22,0.18,0.21
+City of God,0.18,0.08,,0.13
+Life Is Beautiful,0.05,,,0.05
+The Green Mile,0.27,0.11,-0.01,0.12
+Star Wars: Episode IV - A New Hope,0.5,0.19,0.14,0.28
+Terminator 2: Judgment Day,0.24,0.22,0.19,0.22
+Spirited Away,0.32,0.2,,0.26
+Oppenheimer,0.27,0.22,0.07,0.19
+Harakiri,0.14,0.1,,0.12
+Back to the Future,0.34,0.26,0.19,0.26
+Psycho,0.34,0.26,0.04,0.21
+Parasite,0.21,0.2,0.12,0.18
+Gladiator,0.27,0.21,0.12,0.2
+The Lion King,0.28,0.19,,0.24
+Léon: The Professional,0.13,-0.05,,0.04
+American History X,0.12,-0.18,,-0.03
+The Departed,0.22,0.21,0.2,0.21
+Whiplash,0.59,0.16,0.01,0.25
+The Prestige,0.5,0.2,0.13,0.28
+The Usual Suspects,0.9,0.11,0.08,0.36
+Grave of the Fireflies,0.25,-0.02,,0.12
+Casablanca,0.3,0.27,0.22,0.26
+The Intouchables,0.32,,,0.32
+Modern Times,0.33,0.1,,0.22
+Cinema Paradiso,0.35,0.13,0.12,0.2
+Once Upon a Time in the West,0.06,0.0,-0.09,-0.01
+Rear Window,0.17,0.17,0.11,0.15
+Alien,0.04,-0.08,-0.22,-0.09
+City Lights,0.04,,,0.04
+Django Unchained,0.39,0.13,0.11,0.21
+Apocalypse Now,0.05,0.02,-0.15,-0.03
+Memento,0.37,0.1,0.09,0.19
+Indiana Jones and the Raiders of the Lost Ark,0.29,0.18,0.14,0.2
+WALL·E,0.37,0.25,0.01,0.21
+The Lives of Others,0.15,0.1,,0.12
+Sunset Blvd.,0.58,0.27,0.2,0.35
+Paths of Glory,0.15,0.08,0.03,0.09
+Avengers: Infinity War,0.21,0.15,0.09,0.15
+The Shining,0.72,0.25,0.2,0.39
+The Great Dictator,0.27,,,0.27
+Witness for the Prosecution,0.39,0.29,0.2,0.29
+Spider-Man: Into the Spider-Verse,0.53,0.38,0.26,0.39
+Aliens,0.17,0.13,-0.02,0.09
+Inglourious Basterds,0.19,0.11,0.02,0.11
+The Dark Knight Rises,0.4,0.17,0.1,0.22
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0.17,0.03,-0.0,0.07
+Oldboy,0.19,0.04,0.01,0.08
+Coco,0.57,0.2,0.14,0.3
+Amadeus,0.27,0.11,,0.19
+The Boat,0.2,0.09,0.03,0.11
+Avengers: Endgame,0.27,0.21,0.08,0.19
+Joker,0.18,0.13,0.11,0.14
+Your Name.,0.52,0.22,0.0,0.25
+3 Idiots,1.0,,,1.0
+High and Low,0.2,0.09,,0.15
+Capernaum,0.08,,,0.08
+Come and See,0.05,,,0.05
+Toy Story,0.77,0.5,0.19,0.49
+American Beauty,0.29,0.21,0.06,0.19
+Braveheart,0.65,0.35,0.16,0.39
+Princess Mononoke,0.28,0.1,0.09,0.16
+Good Will Hunting,0.43,0.22,0.13,0.26
+Once Upon a Time in America,0.26,0.18,-0.04,0.13
+Singin' in the Rain,0.67,0.31,0.19,0.39
+Requiem for a Dream,0.3,-0.02,-0.6,-0.11
+Toy Story 3,1.0,0.41,0.29,0.57
+Star Wars: Episode VI - Return of the Jedi,0.31,0.3,0.16,0.26
+Eternal Sunshine of the Spotless Mind,0.65,0.55,0.11,0.44
+2001: A Space Odyssey,0.43,0.34,0.03,0.27
+The Hunt,0.31,0.31,0.01,0.21
+Reservoir Dogs,0.24,0.04,-0.1,0.06
+Ikiru,0.28,0.2,0.17,0.22
+Lawrence of Arabia,0.32,0.25,0.09,0.22
+Citizen Kane,0.5,0.2,0.14,0.28
+M,0.34,0.0,-0.5,-0.05

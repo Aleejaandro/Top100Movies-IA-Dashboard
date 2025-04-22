@@ -1,0 +1,101 @@
+imdb_id,title,rating_imdb,rating_RT,rating_metacritic,promedio_rating
+tt0111161,The Shawshank Redemption,9.3,8.9,8.2,8.8
+tt0068646,The Godfather,9.2,9.7,10.0,9.63
+tt0468569,The Dark Knight,9.0,9.4,8.4,8.93
+tt0071562,The Godfather Part II,9.0,9.6,9.0,9.2
+tt0050083,12 Angry Men,9.0,10.0,9.7,9.57
+tt0108052,Schindler's List,9.0,9.8,9.5,9.43
+tt0167260,The Lord of the Rings: The Return of the King,9.0,9.4,9.4,9.27
+tt0110912,Pulp Fiction,8.9,9.2,9.5,9.2
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,8.9,9.2,9.2,9.1
+tt0060196,"The Good, the Bad and the Ugly",8.8,9.7,9.0,9.17
+tt0109830,Forrest Gump,8.8,7.5,8.2,8.17
+tt0137523,Fight Club,8.8,8.1,6.7,7.87
+tt0167261,The Lord of the Rings: The Two Towers,8.8,9.5,8.7,9.0
+tt1375666,Inception,8.8,8.7,7.4,8.3
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,8.7,9.5,8.2,8.8
+tt0133093,The Matrix,8.7,8.3,7.3,8.1
+tt0099685,Goodfellas,8.7,9.4,9.2,9.1
+tt9362722,Spider-Man: Across the Spider-Verse,8.5,9.5,8.6,8.87
+tt0816692,Interstellar,8.7,7.3,7.4,7.8
+tt0073486,One Flew Over the Cuckoo's Nest,8.7,9.3,8.4,8.8
+tt0114369,Se7en,8.6,8.4,6.5,7.83
+tt0038650,It's a Wonderful Life,8.6,9.4,8.9,8.97
+tt0047478,Seven Samurai,8.6,10.0,9.8,9.47
+tt0102926,The Silence of the Lambs,8.6,9.5,8.6,8.9
+tt0120815,Saving Private Ryan,8.6,9.4,9.1,9.03
+tt0317248,City of God,8.6,9.1,7.9,8.53
+tt0118799,Life Is Beautiful,8.6,8.1,5.8,7.5
+tt0120689,The Green Mile,8.6,7.9,6.1,7.53
+tt0076759,Star Wars: Episode IV - A New Hope,8.6,9.3,9.0,8.97
+tt0103064,Terminator 2: Judgment Day,8.6,9.1,7.5,8.4
+tt0245429,Spirited Away,8.6,9.6,9.6,9.27
+tt15398776,Oppenheimer,8.3,9.3,9.0,8.87
+tt0056058,Harakiri,8.6,10.0,8.5,9.03
+tt0088763,Back to the Future,8.5,9.3,8.7,8.83
+tt0253474,The Pianist,8.5,9.5,8.5,8.83
+tt0054215,Psycho,8.5,9.7,9.7,9.3
+tt6751668,Parasite,8.5,9.9,9.7,9.37
+tt0172495,Gladiator,8.5,8.0,6.7,7.73
+tt0110357,The Lion King,8.5,9.3,8.8,8.87
+tt0110413,Léon: The Professional,8.5,7.5,6.4,7.47
+tt0120586,American History X,8.5,8.4,6.2,7.7
+tt0407887,The Departed,8.5,9.1,8.5,8.7
+tt2582802,Whiplash,8.5,9.4,8.9,8.93
+tt0482571,The Prestige,8.5,7.7,6.6,7.6
+tt0114814,The Usual Suspects,8.5,8.7,7.6,8.27
+tt0095327,Grave of the Fireflies,8.5,10.0,9.4,9.3
+tt0034583,Casablanca,8.5,9.9,10.0,9.47
+tt1675434,The Intouchables,8.5,7.6,5.7,7.27
+tt0027977,Modern Times,8.5,9.8,9.6,9.3
+tt0095765,Cinema Paradiso,8.5,9.1,8.0,8.53
+tt0064116,Once Upon a Time in the West,8.5,9.6,8.2,8.77
+tt0047396,Rear Window,8.5,9.8,10.0,9.43
+tt0078748,Alien,8.5,9.3,8.9,8.9
+tt0021749,City Lights,8.5,9.5,9.9,9.3
+tt1853728,Django Unchained,8.5,8.7,8.1,8.43
+tt0078788,Apocalypse Now,8.4,9.0,9.4,8.93
+tt0209144,Memento,8.4,9.4,8.3,8.7
+tt0082971,Indiana Jones and the Raiders of the Lost Ark,8.4,9.4,8.6,8.8
+tt0910970,WALL·E,8.4,9.5,9.5,9.13
+tt0405094,The Lives of Others,8.4,9.2,8.9,8.83
+tt0043014,Sunset Blvd.,8.4,9.8,9.4,9.2
+tt0050825,Paths of Glory,8.4,9.6,9.0,9.0
+tt4154756,Avengers: Infinity War,8.4,8.5,6.8,7.9
+tt0081505,The Shining,8.4,8.3,6.8,7.83
+tt0032553,The Great Dictator,8.4,9.2,,8.8
+tt0051201,Witness for the Prosecution,8.4,10.0,7.6,8.67
+tt4633694,Spider-Man: Into the Spider-Verse,8.4,9.7,8.7,8.93
+tt0090605,Aliens,8.4,9.4,8.4,8.73
+tt0361748,Inglourious Basterds,8.4,8.9,6.9,8.07
+tt1345836,The Dark Knight Rises,8.4,8.7,7.8,8.3
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,9.8,9.7,9.27
+tt0364569,Oldboy,8.3,8.2,7.8,8.1
+tt2380307,Coco,8.4,9.7,8.1,8.73
+tt0086879,Amadeus,8.4,9.0,8.7,8.7
+tt0082096,The Boat,8.4,9.8,8.5,8.9
+tt4154796,Avengers: Endgame,8.4,9.4,7.8,8.53
+tt7286456,Joker,8.3,6.8,5.9,7.0
+tt5311514,Your Name.,8.4,9.8,8.1,8.77
+tt1187043,3 Idiots,8.4,10.0,6.7,8.37
+tt0057565,High and Low,8.4,9.6,9.0,9.0
+tt8267604,Capernaum,8.4,9.0,7.5,8.3
+tt0091251,Come and See,8.4,8.9,,8.65
+tt0114709,Toy Story,8.3,10.0,9.6,9.3
+tt0169547,American Beauty,8.3,8.7,8.4,8.47
+tt0112573,Braveheart,8.3,7.6,6.8,7.57
+tt0119698,Princess Mononoke,8.3,9.3,7.6,8.4
+tt0119217,Good Will Hunting,8.3,9.7,7.1,8.37
+tt0087843,Once Upon a Time in America,8.3,8.6,7.5,8.13
+tt0045152,Singin' in the Rain,8.3,10.0,9.9,9.4
+tt0180093,Requiem for a Dream,8.3,7.8,7.1,7.73
+tt0435761,Toy Story 3,8.3,9.8,9.2,9.1
+tt0086190,Star Wars: Episode VI - Return of the Jedi,8.3,8.2,5.8,7.43
+tt0338013,Eternal Sunshine of the Spotless Mind,8.3,9.2,8.9,8.8
+tt0062622,2001: A Space Odyssey,8.3,9.2,8.4,8.63
+tt2106476,The Hunt,8.3,9.2,7.7,8.4
+tt0105236,Reservoir Dogs,8.3,9.0,8.1,8.47
+tt0044741,Ikiru,8.3,9.8,9.2,9.1
+tt0056172,Lawrence of Arabia,8.3,9.3,10.0,9.2
+tt0033467,Citizen Kane,8.3,9.9,10.0,9.4
+tt0022100,M,8.3,10.0,,9.15
