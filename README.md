@@ -22,11 +22,11 @@ Explorar, comparar y visualizar de forma interactiva información clave sobre la
 
 ## Funcionalidades
 
-- ✅ Extracción de datos desde APIs y enriquecimiento con actores y directores  
-- ✅ Normalización de calificaciones (IMDb, Rotten Tomatoes, Metacritic)  
-- ✅ Análisis de sentimiento con NLP (TextBlob)  
-- ✅ Base de datos SQLite con relaciones entre películas, actores, directores, plataformas y reseñas  
-- ✅ Dashboard en Power BI con:
+-  Extracción de datos desde APIs y enriquecimiento con actores y directores  
+-  Normalización de calificaciones (IMDb, Rotten Tomatoes, Metacritic)  
+-  Análisis de sentimiento con NLP (TextBlob)  
+-  Base de datos SQLite con relaciones entre películas, actores, directores, plataformas y reseñas  
+-  Dashboard en Power BI con:
   - Tabla resumen de películas
   - Comparación de calificaciones por fuente
   - Gráfico de las 10 películas mejor valoradas
@@ -51,7 +51,7 @@ Proyecto_Cine_IA/
 
 ---
 
-## 📚Instalación y Ejecución
+## Instalación y Ejecución
 
 ###  Con `pipenv`
 
@@ -61,13 +61,13 @@ pipenv run jupyter notebook
 ```
 
 
-## 🌐 Visualización en Power BI
+## Visualización en Power BI
 
 El archivo `dashboard/......pbix` contiene los dashboard con segmentadores, gráficos de comparación y análisis de sentimiento. Puedes abrirlos con Power BI Desktop.
 
 ---
 
-## 💡 Posibles Mejoras Futuras
+## Posibles Mejoras Futuras
 
 - Uso de modelos de NLP más avanzados (como spaCy o transformers)
 - Análisis de géneros y clasificación temática
@@ -77,20 +77,20 @@ El archivo `dashboard/......pbix` contiene los dashboard con segmentadores, grá
 
 ---
 
-## 🚀 Autor
+## Autor
 
 **Alejandro Fuentes**  
 Proyecto desarrollado como parte de formación en IA y análisis de datos.
 
 ---
 
-## 📍 Conecta
+## Conecta
 
 Si te ha gustado este proyecto, no dudes en compartirlo o conectarte conmigo en [LinkedIn](https://www.linkedin.com/in/alejandrof-tech/) para más contenido sobre ciencia de datos, visualización y tecnología.
 
 ---
 
-## 💾 Licencia
+## Licencia
 
 Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
