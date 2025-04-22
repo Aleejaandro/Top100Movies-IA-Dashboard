@@ -27,12 +27,12 @@ Explorar, comparar y visualizar de forma interactiva información clave sobre la
 -  Análisis de sentimiento con NLP (TextBlob)  
 -  Base de datos SQLite con relaciones entre películas, actores, directores, plataformas y reseñas  
 -  Dashboard en Power BI con:
-  - Tabla resumen de películas
-  - Comparación de calificaciones por fuente
-  - Gráfico de las 10 películas mejor valoradas
-  - Análisis cruzado de sentimientos y valoraciones
-  - Disponibilidad en plataformas de streaming
-  - Información de presupuesto y taquilla
+  1. Tabla resumen de películas
+  2. Comparación de calificaciones por fuente
+  3. Gráfico de las 10 películas mejor valoradas
+  4. Análisis cruzado de sentimientos y valoraciones
+  5. Disponibilidad en plataformas de streaming
+  6. Información de presupuesto y taquilla
 
 ---
 
